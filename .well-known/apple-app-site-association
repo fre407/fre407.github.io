@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["95U85N2552.com.fre4.circuit"],
+        "components": [
+          { "/": "/circuit-play/d/*", "comment": "Circuit duel invites" }
+        ]
+      }
+    ]
+  }
+}

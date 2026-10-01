@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fre4.circuit",
+      "sha256_cert_fingerprints": [
+        "C5:68:CB:D5:8E:33:57:B6:DC:4C:CF:33:93:0F:AE:F4:0F:91:C0:59:99:0F:3C:05:8A:45:F6:8F:DE:CA:26:1A"
+      ]
+    }
+  }
+]
